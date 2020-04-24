@@ -22,3 +22,19 @@ h1{
   background-color: #ddd;
   color: black;
 }
+h2{
+  text-align: center;
+  font-size: 500%
+}
+h3{
+  text-align: center;
+  font-size: 150%;
+}
+h4{
+  text-align: center;
+  font-size: 150%;
+}
+h5{
+  text-align: center;
+  font-size: 150%;
+}

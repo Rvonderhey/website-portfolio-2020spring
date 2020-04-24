@@ -22,3 +22,15 @@ h1{
   background-color: #ddd;
   color: black;
 }
+.aboutme {
+  background-color: #3397FF;
+  font-size: 200%;
+  width: 800px;
+}
+img {
+  position: relative;
+  width: 300px;
+  height: 650px;
+  margin-left: 50em;
+  bottom: 370px;
+}
